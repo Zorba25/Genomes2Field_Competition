@@ -1,3 +1,5 @@
 # Ignore these directories
 Training_Data/
 Testing_Data/
+Full_Data/
+docs_data/
